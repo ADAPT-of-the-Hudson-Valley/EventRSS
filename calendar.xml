@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Today's Meetings - October 08, 2026</title>
+        <title>Today's Meetings - October 09, 2026</title>
         <link></link>
         
         <item>
-            <title>SCIP RECERT</title>
-            <description>10:00 AM - 01:00 PM - Board Room 252</description>
-            <pubDate>Thu, 08 Oct 2026 10:00:00 -0400</pubDate>
-        </item>
-
-        <item>
-            <title>Event Planning Committee - Trunk or Treat Pt. 2</title>
-            <description>02:00 PM - 03:00 PM - Board Room 252</description>
-            <pubDate>Thu, 08 Oct 2026 14:00:00 -0400</pubDate>
-        </item>
-
-        <item>
-            <title>HOLD – All Staff Town Hall with Jenna Mandel-Ricci</title>
-            <description>03:00 PM - 04:00 PM - Board Room 252</description>
-            <pubDate>Thu, 08 Oct 2026 15:00:00 -0400</pubDate>
+            <title>PSO alt schedule discussion</title>
+            <description>11:00 AM - 12:00 PM - Board Room 252</description>
+            <pubDate>Fri, 09 Oct 2026 11:00:00 -0400</pubDate>
         </item>
 
     </channel>
