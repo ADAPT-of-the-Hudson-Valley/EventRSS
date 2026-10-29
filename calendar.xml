@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Today's Meetings - October 28, 2026</title>
+        <title>Today's Meetings - October 29, 2026</title>
         <link></link>
         
         <item>
-            <title>SCIP Recert Interventions</title>
-            <description>03:00 PM - 11:00 PM - Training Corridor</description>
-            <pubDate>Wed, 28 Oct 2026 15:00:00 -0400</pubDate>
+            <title>PSO Day 4</title>
+            <description>12:00 PM - 05:30 PM - Board Room 252</description>
+            <pubDate>Thu, 29 Oct 2026 12:00:00 -0400</pubDate>
         </item>
 
         <item>
-            <title>SCIP Recert</title>
-            <description>04:00 PM - 10:00 PM - Board Room 252</description>
-            <pubDate>Wed, 28 Oct 2026 16:00:00 -0400</pubDate>
+            <title>CPR Recert Hands on</title>
+            <description>12:00 PM - 05:30 PM - Training Corridor</description>
+            <pubDate>Thu, 29 Oct 2026 12:00:00 -0400</pubDate>
         </item>
 
     </channel>
