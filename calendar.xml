@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Today's Meetings - November 01, 2026</title>
+        <title>Today's Meetings - November 02, 2026</title>
         <link></link>
         
         <item>
-            <title>No Meetings Today</title>
-            <description>There are no meetings or events scheduled for today.</description>
-            <pubDate>Sun, 01 Nov 2026 00:00:00 -0400</pubDate>
+            <title>PSO  Day 6</title>
+            <description>09:00 AM - 05:00 PM - Board Room 252</description>
+            <pubDate>Mon, 02 Nov 2026 09:00:00 -0500</pubDate>
+        </item>
+
+        <item>
+            <title>PSO Day 6</title>
+            <description>09:00 AM - 05:00 PM - Training Room B</description>
+            <pubDate>Mon, 02 Nov 2026 09:00:00 -0500</pubDate>
         </item>
 
     </channel>
