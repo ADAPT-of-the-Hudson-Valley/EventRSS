@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Today's Meetings - November 04, 2026</title>
+        <title>Today's Meetings - November 05, 2026</title>
         <link></link>
         
         <item>
-            <title>PSO Day 8 (SCIP Day2)</title>
-            <description>08:30 AM - 06:00 PM - Board Room 252</description>
-            <pubDate>Wed, 04 Nov 2026 08:30:00 -0500</pubDate>
+            <title>SCIP Recert</title>
+            <description>12:00 PM - 06:00 PM - Board Room 252</description>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 -0500</pubDate>
         </item>
 
         <item>
-            <title>SCIP Day 2</title>
-            <description>08:30 AM - 06:00 PM - Training Room B</description>
-            <pubDate>Wed, 04 Nov 2026 08:30:00 -0500</pubDate>
-        </item>
-
-        <item>
-            <title>Brenden Gonzalez Brenden's Cluster Meeting</title>
-            <description>11:00 AM - 12:00 PM - Training Room A</description>
-            <pubDate>Wed, 04 Nov 2026 11:00:00 -0500</pubDate>
-        </item>
-
-        <item>
-            <title>PSO CPR Hands on</title>
-            <description>12:00 PM - 05:30 PM - Training Corridor</description>
-            <pubDate>Wed, 04 Nov 2026 12:00:00 -0500</pubDate>
+            <title>Jonathan Trout Event Planning Committee </title>
+            <description>02:00 PM - 03:00 PM - Training Room B</description>
+            <pubDate>Thu, 05 Nov 2026 14:00:00 -0500</pubDate>
         </item>
 
     </channel>
