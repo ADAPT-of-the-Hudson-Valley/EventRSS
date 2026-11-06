@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Today's Meetings - November 05, 2026</title>
+        <title>Today's Meetings - November 06, 2026</title>
         <link></link>
         
         <item>
-            <title>SCIP Recert</title>
-            <description>12:00 PM - 06:00 PM - Board Room 252</description>
-            <pubDate>Thu, 05 Nov 2026 12:00:00 -0500</pubDate>
-        </item>
-
-        <item>
-            <title>Jonathan Trout Event Planning Committee </title>
-            <description>02:00 PM - 03:00 PM - Training Room B</description>
-            <pubDate>Thu, 05 Nov 2026 14:00:00 -0500</pubDate>
+            <title>No Meetings Today</title>
+            <description>There are no meetings or events scheduled for today.</description>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
         </item>
 
     </channel>
