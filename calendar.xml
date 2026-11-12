@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Today's Meetings - November 11, 2026</title>
+        <title>Today's Meetings - November 12, 2026</title>
         <link></link>
         
         <item>
-            <title>CPR/FA</title>
-            <description>09:00 AM - 05:00 PM - Board Room 252</description>
-            <pubDate>Wed, 11 Nov 2026 09:00:00 -0500</pubDate>
-        </item>
-
-        <item>
-            <title>CPR Recert Hands on</title>
-            <description>12:00 PM - 05:30 PM - Training Corridor</description>
-            <pubDate>Wed, 11 Nov 2026 12:00:00 -0500</pubDate>
-        </item>
-
-        <item>
-            <title>SCIP Recert</title>
-            <description>05:00 PM - 09:00 PM - Board Room 252</description>
-            <pubDate>Wed, 11 Nov 2026 17:00:00 -0500</pubDate>
+            <title>Program &amp; Compliance Workshop</title>
+            <description>09:00 AM - 02:00 PM - Board Room 252</description>
+            <pubDate>Thu, 12 Nov 2026 09:00:00 -0500</pubDate>
         </item>
 
     </channel>
