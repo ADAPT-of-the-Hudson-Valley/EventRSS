@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Today's Meetings - November 22, 2026</title>
+        <title>Today's Meetings - November 23, 2026</title>
         <link></link>
         
         <item>
-            <title>No Meetings Today</title>
-            <description>There are no meetings or events scheduled for today.</description>
-            <pubDate>Sun, 22 Nov 2026 00:00:00 -0500</pubDate>
+            <title>CPR/FA</title>
+            <description>09:00 AM - 05:00 PM - Board Room 252</description>
+            <pubDate>Mon, 23 Nov 2026 09:00:00 -0500</pubDate>
+        </item>
+
+        <item>
+            <title>CPR Recert Hands on</title>
+            <description>12:00 PM - 05:30 PM - Training Corridor</description>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 -0500</pubDate>
         </item>
 
     </channel>
